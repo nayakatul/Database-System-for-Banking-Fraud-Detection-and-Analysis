@@ -32,7 +32,7 @@ The project requires the construction of a comprehensive database encompassing v
 
 <img width="997" alt="Screenshot 2024-01-08 at 2 00 55 PM" src="https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/4025862d-73c9-44c8-9602-2cf279adee19">
 
-
+/n
 
 
 **UML Diagram:**
@@ -44,11 +44,11 @@ The project requires the construction of a comprehensive database encompassing v
 In the Fraud Detection System project, the EER and UML conceptual models were translated into a relational database structure as follows:
 Customer Table holds customer information with CustomerID as the primary key. It includes essential details like name, address, date of birth, and contact information, with a constraint that these fields cannot be null.
  
-Account Table is linked to the Customer table via CustomerID as a foreign key. It uniquely identifies each account with AccountNumber as the primary key and includes account type and balance.
+- Account Table is linked to the Customer table via CustomerID as a foreign key. It uniquely identifies each account with AccountNumber as the primary key and includes account type and balance.
 
-Transaction Table captures transaction details, identified by TransactionID. It includes foreign keys to the Account table for both source and destination accounts, and a foreign key to the FraudDetectionModel table, ensuring each transaction is associated with a specific fraud detection model version.
-FraudDetectionModel Table stores data on different versions of the fraud detection models, with ModelVersion as the primary key and attributes like last trained date, sensitivity, and alert level.
-Additional tables like SecurityParameters, CustFeedback, FinancialInsight, and account type-specific tables (SavingsAccount, CheckingAccount, LoanAccount) are integrated with appropriate primary and foreign keys, ensuring a comprehensive and interconnected database structure.
+- Transaction Table captures transaction details, identified by TransactionID. It includes foreign keys to the Account table for both source and destination accounts, and a foreign key to the --- FraudDetectionModel table, ensuring each transaction is associated with a specific fraud detection model version.
+- FraudDetectionModel Table stores data on different versions of the fraud detection models, with ModelVersion as the primary key and attributes like last trained date, sensitivity, and alert level.
+- Additional tables like SecurityParameters, CustFeedback, FinancialInsight, and account type-specific tables (SavingsAccount, CheckingAccount, LoanAccount) are integrated with appropriate primary and foreign keys, ensuring a comprehensive and interconnected database structure.
 
 **Implementation of Relation Model via MySQL and NoSQL:**
 
@@ -87,14 +87,14 @@ The Fraud Detection System project successfully designed a relational database i
 -	Versatile Python integration for data manipulation and visualization.
 
 **Shortcomings:**
-•	Potential scalability challenges with increasing data volume.
-•	Limited implementation in NoSQL.
+-	Potential scalability challenges with increasing data volume.
+-	Limited implementation in NoSQL.
 
 **Recommendations:**
-•	Explore advanced analytics and machine learning for predictive fraud detection.
-•	Expand NoSQL implementation for scalability and flexibility.
-•	Continuously update the fraud detection model to adapt to evolving fraud tactics.
-•	Summarize your use case study. Access the advantages and shortcomings and make recommendations.
+-	Explore advanced analytics and machine learning for predictive fraud detection.
+-	Expand NoSQL implementation for scalability and flexibility.
+-	Continuously update the fraud detection model to adapt to evolving fraud tactics.
+-	Summarize your use case study. Access the advantages and shortcomings and make recommendations.
 
 
 
