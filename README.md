@@ -82,9 +82,9 @@ The next graph displays the age distribution of customers. It indicates that the
 The Fraud Detection System project successfully designed a relational database in MySQL and partially in NoSQL, modeling complex data structures for fraud detection. Python was used for database interaction, data analysis, and visualization, providing valuable insights into transaction patterns and fraud detection efficacy.
 
 **Advantages:**
-•	Robust data modeling and relational structure.
-•	Effective fraud detection and analysis capabilities.
-•	Versatile Python integration for data manipulation and visualization.
+-	Robust data modeling and relational structure.
+-	Effective fraud detection and analysis capabilities.
+-	Versatile Python integration for data manipulation and visualization.
 
 **Shortcomings:**
 •	Potential scalability challenges with increasing data volume.
