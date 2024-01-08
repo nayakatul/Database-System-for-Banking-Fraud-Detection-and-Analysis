@@ -33,6 +33,8 @@ The project requires the construction of a comprehensive database encompassing v
 <img width="997" alt="Screenshot 2024-01-08 at 2 00 55 PM" src="https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/4025862d-73c9-44c8-9602-2cf279adee19">
 
 
+
+
 **UML Diagram:**
 
 <img width="1024" alt="Screenshot 2024-01-08 at 2 01 32 PM" src="https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/464ff71e-06f2-4c34-853e-e670610bd52b">
