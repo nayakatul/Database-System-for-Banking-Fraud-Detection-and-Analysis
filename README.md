@@ -7,7 +7,6 @@ With the rapid advancement of technology and increasing online transactions, the
 Secondly, as customers' financial behaviors become more intricate, there's an emerging need to understand and interpret these patterns. By doing so, banking institutions can offer more tailored and efficient services, enhancing the user experience. Moreover, deciphering these financial patterns can also lead to offering valuable insights to customers, promoting intelligent financial behavior and deepening trust between the institution and its clients.
 
 The proposed integrated system aims to address both these challenges, combining an advanced fraud detection mechanism with a financial insight module. This dual solution not only ensures the security of transactions but also provides a value-added service by granting customers a deeper understanding of their financial habits.
-![image](https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/a6b069d9-13d7-4171-913a-ddd826a4ed00)
 
 **ER Diagram:**
 <img width="997" alt="Screenshot 2024-01-08 at 2 00 55 PM" src="https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/4025862d-73c9-44c8-9602-2cf279adee19">
