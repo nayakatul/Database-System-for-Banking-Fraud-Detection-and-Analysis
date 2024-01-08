@@ -29,10 +29,12 @@ Our study's goal is to design and implement an effective Fraud Detection System 
 The project requires the construction of a comprehensive database encompassing various entities such as customers, accounts, transactions, and fraud detection models. It involves the application of Enhanced Entity-Relationship (EER) and Unified Modeling Language (UML) for data modeling, the implementation of a relational model in MySQL, data analysis, and visualization using Python, and the exploration of NoSQL implementations for scalability and flexibility.
 
 **ER Diagram:**
+
 <img width="997" alt="Screenshot 2024-01-08 at 2 00 55 PM" src="https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/4025862d-73c9-44c8-9602-2cf279adee19">
 
 
 **UML Diagram:**
+
 <img width="1024" alt="Screenshot 2024-01-08 at 2 01 32 PM" src="https://github.com/nayakatul/Database-System-for-Banking-Fraud-Detection-and-Analysis/assets/125909401/464ff71e-06f2-4c34-853e-e670610bd52b">
 
 **Mapping Conceptual Model to Relational Model:**
@@ -77,15 +79,16 @@ The next graph displays the age distribution of customers. It indicates that the
 
 The Fraud Detection System project successfully designed a relational database in MySQL and partially in NoSQL, modeling complex data structures for fraud detection. Python was used for database interaction, data analysis, and visualization, providing valuable insights into transaction patterns and fraud detection efficacy.
 
-Advantages:
+**Advantages:**
 •	Robust data modeling and relational structure.
 •	Effective fraud detection and analysis capabilities.
 •	Versatile Python integration for data manipulation and visualization.
-Shortcomings:
+
+**Shortcomings:**
 •	Potential scalability challenges with increasing data volume.
 •	Limited implementation in NoSQL.
 
-Recommendations:
+**Recommendations:**
 •	Explore advanced analytics and machine learning for predictive fraud detection.
 •	Expand NoSQL implementation for scalability and flexibility.
 •	Continuously update the fraud detection model to adapt to evolving fraud tactics.
